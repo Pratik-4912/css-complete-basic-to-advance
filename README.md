@@ -1,7 +1,3 @@
-# CSS Complete Guide (Zero to Advance) — मराठी
-
----
-
 ## भाग 1: CSS म्हणजे काय?
 
 CSS (Cascading Style Sheets) HTML ला **style/सजावट** देतं — रंग, size, spacing, layout वगैरे.
